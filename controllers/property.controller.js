@@ -1,3 +1,6 @@
+import mongoose from "mongoose";
+
+
 import Property from "../mongodb/models/property.js"
 import User from '../mongodb/models/user.js'
 
